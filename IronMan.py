@@ -22,7 +22,6 @@ turtle.title("Iron Man Draw")
 
 # Set the background color
 turtle.bgcolor("#ba161e") # Red
-# turtle.bgcolor("#4863A0") # Dark Blue
 
 # Set the window size(Height & Width)
 turtle.setup(500, 600)
@@ -48,7 +47,6 @@ def draw_face(face_details, start):
     turtle.pendown()
     
     # The pen color
-    # turtle.color("Grey")
     turtle.color("#fab104") #Yellow
     
     # Actually I can't describe this function, Go check the documentations 
